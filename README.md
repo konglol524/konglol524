@@ -24,6 +24,9 @@ Yoroshiku Onegai Shimasu
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
+![kong's GitHub stats](https://github-readme-stats.vercel.app/api?username=konglol524&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konglol524&layout=compact&theme=radical)
+
 ## 📫 How to reach me
 
 - <a href="https://linkedin.com/in/kongbhumi-subhudhayodhin-938398288"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>

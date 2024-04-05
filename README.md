@@ -12,7 +12,7 @@ Yoroshiku Onegai Shimasu
 - Can write blogs
 - Can Write Cypress tests
 
-## I code with
+## I code with 💻
 <p>
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -24,10 +24,10 @@ Yoroshiku Onegai Shimasu
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-![kong's GitHub stats](https://github-readme-stats.vercel.app/api?username=konglol524&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konglol524&layout=compact&theme=radical)
+![kong's GitHub stats](https://github-readme-stats.vercel.app/api?username=konglol524&show_icons=true&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konglol524&layout=compact&theme=light)
 
-## 📫 How to reach me
+## How to reach me 📫
 
 - <a href="https://linkedin.com/in/kongbhumi-subhudhayodhin-938398288"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
 - Email: kongbhumi26@gmail.com

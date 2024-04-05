@@ -1,4 +1,6 @@
 # About Me 🥑
+<img src="https://count.getloli.com/get/@:k" alt=":cat" />
+
 My name is Kong. I'm a student at CEDT-Chula. 
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)

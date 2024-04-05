@@ -1,5 +1,5 @@
 # About Me 🥑
-My name is Kong, a student at CEDT-Chula. 
+My name is Kong. I'm a student at CEDT-Chula. 
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
@@ -24,5 +24,5 @@ Yoroshiku Onegai Shimasu
 
 ## 📫 How to reach me
 
-- LinkedIn: [My LinkedIn](https://linkedin.com/in/kongbhumi-subhudhayodhin-938398288)
+- <a href="https://linkedin.com/in/kongbhumi-subhudhayodhin-938398288"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
 - Email: kongbhumi26@gmail.com
